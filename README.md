@@ -2,8 +2,7 @@
 
 Шесть объявлений с Kufar, все в конфигурации 8/256 ГБ.
 Цена, состояние и комплект — из объявлений; характеристики и замеры — с NanoReview.
-Колонки отсортированы по цене. Прошивка и версия Android не сравниваются.
-
+Колонки отсортированы по цене.
 ---
 
 ## Модели и объявления
@@ -412,4 +411,4 @@
 2. [POCO X4 Pro 5G vs Xiaomi 12 Lite](https://nanoreview.net/ru/phone-compare/xiaomi-poco-x4-pro-5g-vs-xiaomi-12-lite?m=r%7E8-256-and-r%7E8-256&vfm=c%7Ebyn.p1%7E300.p2%7E235) — 300 и 235 BYN
 3. [Redmi Note 14 4G vs Xiaomi 13 Lite](https://nanoreview.net/ru/phone-compare/xiaomi-redmi-note-14-4g-vs-xiaomi-13-lite?m=r%7E8-256-and-r%7E8-256&vfm=c%7Ebyn.p1%7E245.p2%7E300) — 245 и 300 BYN
 
-Данные и цены актуальны на 16 августа 2026 года.
+Данные и цены актуальны на 17 августа 2026 года.
