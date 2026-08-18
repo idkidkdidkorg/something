@@ -288,7 +288,7 @@
 
 | Характеристика | Победитель | 11T | 12 Lite | Note 14 | X4 Pro | 13 Lite | Note 11 Pro+ |
 |---|---|---|---|---|---|---|---|
-| Wi-Fi | **11T · 12 Lite · 13 Lite · Note 11 Pro+** ¹ | **Wi-Fi 6, a/b/g/n/ac/ax** | **Wi-Fi 6, b/g/n/ac/ax** | Wi-Fi 5, a/b/g/n/ac | Wi-Fi 5, a/b/g/n/ac | **Wi-Fi 6, a/b/g/n/ac** | **Wi-Fi 6, a/b/g/n/ac/ax** |
+| Wi-Fi | **11T · 12 Lite · 13 Lite · Note 11 Pro+** ¹ | **Wi-Fi 6, a/b/g/n/ac/ax** | **Wi-Fi 6, b/g/n/ac/ax** | Wi-Fi 5, a/b/g/n/ac | Wi-Fi 5, a/b/g/n/ac | **Wi-Fi 6, a/b/g/n/ac/ax** | **Wi-Fi 6, a/b/g/n/ac/ax** |
 | Функции Wi-Fi | **13 Lite** — единственный с MiMO | Dual Band, Direct, Hotspot, Display | Dual Band, Direct, Hotspot, Display | Dual Band, Direct, Hotspot, Display | Dual Band, Direct, Hotspot, Display | **+ MiMO** | Dual Band, Direct, Hotspot, Display |
 | Bluetooth | **Note 14** — версия 5.3 | 5.2 | 5.2 | **5.3** | 5.1 | 5.2 | 5.2 |
 | Функции Bluetooth | **11T · 12 Lite** — есть HID | **LE, HID, A2DP** | **LE, HID, A2DP** | LE | LE, A2DP | LE | LE, A2DP |
@@ -301,9 +301,9 @@
 | LTE Cat. | Ничья среди моделей с данными ³ | Cat. 18 | Cat. 18 | н/д | Cat. 18 | Cat. 18 | Cat. 18 |
 | 5G | **все, кроме Note 14** | **Да** | **Да** | Нет | **Да** | **Да** | **Да** |
 
-¹ Главное различие — Wi-Fi 6 против Wi-Fi 5. Мелочи: у 12 Lite не заявлен диапазон 802.11a, у 13 Lite в спецификации оборван перечень и ax не указан, хотя стандарт числится как Wi-Fi 6.
+¹ Главное различие — Wi-Fi 6 против Wi-Fi 5. Мелочи: у 12 Lite не заявлен диапазон 802.11a, что вероятно является ошибкой заполнения.
 ² Гибридный слот означает, что карта памяти занимает место второй SIM — это ограничение, а не плюс.
-³ У Note 14 категория LTE не указана вовсе. Модем встроен в Helio G99 Ultra, который относится к 4G-платформам начального уровня, так что скорость мобильного интернета там ниже, чем у остальных даже в сетях LTE.
+³ У Note 14 категория LTE не указана вовсе. Модем встроен в Helio G99 Ultra, который относится к 4G-платформам начального уровня, так что скорость мобильного интернета там ниже, чем у остальных даже в сетях LTE и 3G.
 
 ---
 
